@@ -1,1 +1,1 @@
-Aplicar lo enseñado y dejar lipio el codigo.
+Aplicar lo enseñado y dejar limpio el codigo.
